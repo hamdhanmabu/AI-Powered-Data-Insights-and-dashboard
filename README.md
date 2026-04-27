@@ -57,7 +57,8 @@ The project includes multiple structured sheets:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](.JPG)
+![Dashboard](<img width="1515" height="766" alt="Dashboard " src="https://github.com/user-attachments/assets/b7b8b777-7adb-44cd-8c91-ee012968e919" />
+.jpg)
 
 ---
 
