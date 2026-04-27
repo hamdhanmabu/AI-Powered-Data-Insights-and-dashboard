@@ -57,7 +57,7 @@ The project includes multiple structured sheets:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](WhatsApp Image 2026-04-27 at 16.17.47.jpeg)
+![Dashboard](.JPG)
 
 ---
 
