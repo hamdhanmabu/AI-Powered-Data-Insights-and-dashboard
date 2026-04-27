@@ -56,7 +56,8 @@ The project includes multiple structured sheets:
 ---
 
 ## 📷 Dashboard Preview
-(Add screenshots of your dashboard here)
+
+![Dashboard](dashboard.png)
 
 ---
 
@@ -66,6 +67,6 @@ This project provides actionable insights into healthcare risks and cost drivers
 ---
 
 ## 📂 Files Included
-- CAPSTONE ASSIGNMENT.xlsx (Main Project File)
+👉 [Download Excel File](./CAPSTONE_ASSIGNMENT.xlsx)
 
 ---
