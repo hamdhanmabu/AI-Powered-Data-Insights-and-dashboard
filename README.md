@@ -68,6 +68,8 @@ This project provides actionable insights into healthcare risks and cost drivers
 ---
 
 ## 📂 Files Included
-👉 [Download Excel File](./CAPSTONE_ASSIGNMENT.xlsx)
+![ProjectFile](CAPSTONEASSIGNMENT.xlsx)
+
+---
 
 ---
