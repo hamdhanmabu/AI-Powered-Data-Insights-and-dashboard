@@ -1,4 +1,4 @@
-# 🏥 Healthcare Data Analysis & Burnout Risk Insights (Excel Dashboard)
+# 🏥 AI-Powered Healthcare Data Insights and Dashboard analysis
 
 ## 🔗 Live Dashboard
 👉 https://docs.google.com/spreadsheets/d/1leVBz8iYGi2nyzH9X4zRqbwqk6PAYUvX/edit?usp=sharing
